@@ -1,8 +1,8 @@
     <!-- Banner area -->    <section class="banner_area" data-stellar-background-ratio="0.5">
-        <h2>Contact Us</h2>
+        <h2>Hubungi Kami</h2>
         <ol class="breadcrumb">
-            <li><a href="index.html">Home</a></li>
-            <li><a href="#" class="active">Contact Us</a></li>
+            <li><a href="<?php echo base_url(); ?>Home">Beranda</a></li>
+            <li><a href="<?php echo base_url(); ?>Contact" class="active">Hubungi Kami</a></li>
         </ol>
     </section>
     <!-- End Banner area -->
@@ -18,34 +18,34 @@
         <div class="container">
             <div class="row contact_row">
                 <div class="col-sm-6 contact_info">
-                    <h2>Contact Info</h2>
-                    <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text.</p>
-                    <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text.</p>
+                    <h2>Info Kontak</h2>
+                    <p>Jika anda tertarik dengan jasa kami, Anda dapat menghubungi alamat kami yang tertera dibawah.</p>
+                    <p>Atau anda dapat dapat juga menghubungi via Telpon atau Whatsapp untuk mendapatkan informasi dengan sangat cepat.</p>
                     <div class="location">
                         <div class="location_laft">
-                            <a class="f_location" href="#">location</a>
-                            <a href="#">phone</a>
-                            <a href="#">fax</a>
+                            <a class="f_location" href="#">Alamat</a>
+                            <a href="#">Telpon</a>
+                            <a href="#">Whatsapp</a>
                             <a href="#">email</a>
                         </div>
                         <div class="address">
-                            <a href="#">Sector # 10, Road # 05, Plot # 31, Uttara, <br> Dhaka 1230 </a>
-                            <a href="#">+880 123 456 789</a>
-                            <a href="#">(626) 935-3026</a>
-                            <a href="#">info@thethemspro.com</a>
+                            <a href="#">Bayeman, Bangunkerto, Turi, Sleman <br>Yogyakarta</a>
+                            <a href="#">+62 822 25 626 623</a>
+                            <a href="#">+62 822 25 626 623</a>
+                            <a href="#">alparo.kontraktor@gmail.com</a>
                         </div>
                     </div>
                 </div>
                 <div class="col-sm-6 contact_info send_message">
-                    <h2>Send Us a Message</h2>
+                    <h2>Kirim Pesan</h2>
                     <form class="form-inline contact_box">
-                        <input type="text" class="form-control input_box" placeholder="First Name *">
-                        <input type="text" class="form-control input_box" placeholder="Last Name *">
-                        <input type="text" class="form-control input_box" placeholder="Your Email *">
-                        <input type="text" class="form-control input_box" placeholder="Subject">
-                        <input type="text" class="form-control input_box" placeholder="Your Website">
-                        <textarea class="form-control input_box" placeholder="Message"></textarea>
-                        <button type="submit" class="btn btn-default">Send Message</button>
+                        <input type="text" class="form-control input_box" placeholder="Nama Depan *">
+                        <input type="text" class="form-control input_box" placeholder="Nama Belakang *">
+                        <input type="text" class="form-control input_box" placeholder="Email Anda *">
+                        <input type="text" class="form-control input_box" placeholder="Subjek">
+                        <input type="text" class="form-control input_box" placeholder="Website Anda">
+                        <textarea class="form-control input_box" placeholder="Tuliskan Pesan Anda"></textarea>
+                        <button type="submit" class="btn btn-default">Kirim Pesan</button>
                     </form>
                 </div>
             </div>

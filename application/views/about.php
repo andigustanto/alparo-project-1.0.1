@@ -3,7 +3,7 @@
         <h2>Tentang Kami</h2>
         <ol class="breadcrumb">
             <li><a href="<?php echo base_url(); ?>Home">Beranda</a></li>
-            <li><a href="#" class="active">Tentang Kami</a></li>
+            <li><a href="<?php echo base_url(); ?>About" class="active">Tentang Kami</a></li>
         </ol>
     </section>
     <!-- End Banner area -->
@@ -24,7 +24,7 @@
                         <h2>SIAPA KAMI</h2>
                     </div>
                     <p>Kami merupakan perusahaan jasa konstruksi dan suplier rangka atap baja ringan yang berkembang bersama kepuasan pelanggan. Berpengalaman sejak tahun 2014, kami selalu berkomitmen untuk selalu memberikan yang terbaik dalam mewujudkan hunian berkualitas dengan anggaran yang hemat.</p>
-                    <a href="#" class="button_all">Contact Now</a>
+                    <a href="#" class="button_all">Hubungi Sekarang</a>
                 </div>
             </div>
         </div>
@@ -34,8 +34,8 @@
     <!-- call Area -->
     <section class="call_min_area">
         <div class="container">
-            <h2>+62 822 25 626 623</h2>
-            <p>Hubungi kami untuk penawaran terbaik bagi anda.</p>
+            <h2 style="color:black">+62 822 25 626 623</h2>
+            <p  style="color:black">Hubungi kami untuk penawaran terbaik bagi anda.</p>
             <div class="call_btn">
                 <a href="#" class="button_all">CALL</a>
                 <a href="#" class="button_all">WHATSAPP</a>
@@ -47,10 +47,10 @@
     <!-- Our Features Area -->
     <section class="our_feature_area">
         <div class="container">
-            <div class="tittle wow fadeInUp">
+            <!-- <div class="tittle wow fadeInUp">
                 <h2>Our Features</h2>
                 <h4>Lorem Ipsum is simply dummy text of the printing and typesetting industry</h4>
-            </div>
+            </div> -->
             <div class="feature_row row">
                 <div class="col-md-6 feature_img">
                     <img src="<?php echo base_url(); ?>assets/images/feature-man.jpg" alt="">

@@ -37,9 +37,9 @@
 	<section class="top_header_area">
 	    <div class="container">
             <ul class="nav navbar-nav top_nav">
-                <li><a href="#"><i class="fa fa-phone"></i>+1 (168) 314 5016</a></li>
-                <li><a href="#"><i class="fa fa-envelope-o"></i>info@thethemspro.com</a></li>
-                <li><a href="#"><i class="fa fa-clock-o"></i>Mon - Sat 12:00 - 20:00</a></li>
+                <li><a href="#"><i class="fa fa-phone"></i>+62 822 25 626 623</a></li>
+                <li><a href="#"><i class="fa fa-envelope-o"></i>alparo.kontraktor@gmail.com</a></li>
+                <li><a href="#"><i class="fa fa-clock-o"></i>Senin - Sabtu 8:00 - 21:00</a></li>
             </ul>
             <ul class="nav navbar-nav navbar-right social_nav">
                 <li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
@@ -75,7 +75,7 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                     </button>
-                    <a class="navbar-brand" href="<?php echo base_url(); ?>Home"><img src="<?php echo base_url(); ?>assets/images/alparo-logo.png" alt=""></a>
+                    <a class="navbar-brand" href="<?php echo base_url(); ?>Home"><img src="<?php echo base_url(); ?>assets/images/alparo-logo-O1.png" alt=""></a>
                 </div>
             </div>
 
@@ -137,7 +137,7 @@
                             <li><a href="#"><i class="fa fa-envelope" aria-hidden="true"></i>alparo.kontraktor@gmail.com</a></li>
                             <li><a href="#"><i class="fa fa-envelope" aria-hidden="true"></i>info@alparo.com</a></li>
                             <li><a href="#"><i class="fa fa-phone" aria-hidden="true"></i>+62 822 25 626 623</a></li>
-                            <li><a href="#"><i class="fa fa-map-marker" aria-hidden="true"></i><span>Bayeman, Bangunkerto, Turi, Sleman - Yogyakarta </span></a></li>
+                            <li><a href="#"><i class="fa fa-map-marker" aria-hidden="true"></i><span>Bayeman, Bangunkerto, Turi, Sleman - Yogyakarta</span></a></li>
                         </ul>
                     </address>
                 </div>

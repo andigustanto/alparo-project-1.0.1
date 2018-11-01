@@ -1,7 +1,7 @@
     <!-- Slider area -->
     <section class="slider_area row m0">
         <div class="slider_inner">
-            <div data-thumb="slider-1.jpg" data-src="<?php echo base_url(); ?>assets/images/slider-1.jpg">
+            <div data-thumb="slider-1.jpg" data-src="<?php echo base_url(); ?>assets/images/slider/slider-a.jpg">
                 <div class="camera_caption">
                    <div class="container">
                         <h5 class=" wow fadeInUp animated">Welcome to our</h5>
@@ -31,22 +31,22 @@
            <div class="row builder_all">
                 <div class="col-md-3 col-sm-6 builder">
                     <i class="fa fa-home" aria-hidden="true"></i>
-                    <h4>Professional Builde</h4>
+                    <h4>Professional</h4>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod </p>
                 </div>
                 <div class="col-md-3 col-sm-6 builder">
                     <i class="fa fa-building" aria-hidden="true"></i>
-                    <h4>We Deliver Quality</h4>
+                    <h4>Kualitas Terbaik</h4>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod </p>
                 </div>
                 <div class="col-md-3 col-sm-6 builder">
                     <i class="fa fa-clock-o" aria-hidden="true"></i>
-                    <h4>Always On Time</h4>
+                    <h4>Tepat Waktu</h4>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod </p>
                 </div>
                 <div class="col-md-3 col-sm-6 builder">
                     <i class="fa fa-thumbs-up" aria-hidden="true"></i>
-                    <h4>We Are Pasionate</h4>
+                    <h4>Garansi</h4>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod </p>
                 </div>
            </div>
@@ -58,15 +58,15 @@
     <section class="about_us_area row">
         <div class="container">
             <div class="tittle wow fadeInUp">
-                <h2>ABOUT US</h2>
-                <h4>Lorem Ipsum is simply dummy text of the printing and typesetting industry</h4>
+                <h2>Tentang Kami</h2>
+                <h4>Kami adalah perusahaan jasa pemasangan baja ringan yang berpengalaman sejak 2014.</h4>
             </div>
             <div class="row about_row">
                 <div class="who_we_area col-md-7 col-sm-6">
                     <div class="subtittle">
-                        <h2>WHO WE ARE</h2>
+                        <h2>Siapa Kami</h2>
                     </div>
-                    <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text.</p>
+                    <p>Kami merupakan perusahaan jasa konstruksi dan suplier rangka atap baja ringan yang berkembang bersama kepuasan pelanggan. Berpengalaman sejak tahun 2014, kami selalu berkomitmen untuk selalu memberikan yang terbaik dalam mewujudkan hunian berkualitas dengan anggaran yang hemat.</p>
                     <a href="#" class="button_all">Contact Now</a>
                 </div>
                 <div class="col-md-5 col-sm-6 about_client">
@@ -81,7 +81,7 @@
     <section class="what_we_area row">
         <div class="container">
             <div class="tittle wow fadeInUp">
-                <h2>WHAT WE OFFER</h2>
+                <h2>PRODUK DAN JASA KAMI</h2>
                 <h4>Lorem Ipsum is simply dummy text of the printing and typesetting industry</h4>
             </div>
             <div class="row construction_iner">
@@ -274,7 +274,7 @@
     <!-- End Our Services Area -->
 
     <!-- Our Team Area -->
-    <section class="our_team_area">
+    <!-- <section class="our_team_area">
         <div class="container">
             <div class="tittle wow fadeInUp">
                 <h2>Our Team</h2>
@@ -339,7 +339,7 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> -->
     <!-- End Our Team Area -->
 
     <!-- Our Achievments Area -->
